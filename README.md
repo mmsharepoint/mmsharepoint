@@ -5,7 +5,7 @@
 
 I work at Avanade in Germany as a Manager and an expert for Microsoft 365 Development. 
 
-I continuously contribute to the [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) community where my main focus is to produce Microsoft Teams app samples, but not only.
+I continuously contribute to the [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) community where my main focus is to produce Microsoft Teams app samples, but not only. I am also a [member of the core team](https://pnp.github.io/#team) there.
 
 
 ![Markus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmsharepoint&show_icons=true&count_private=true)
